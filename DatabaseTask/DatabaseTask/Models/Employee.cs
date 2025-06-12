@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
 
-namespace DatabaseTask.Core.Domain
+namespace DatabaseTask
 {
     public class Employee
     {
@@ -16,4 +16,6 @@ namespace DatabaseTask.Core.Domain
         public string SickLeave { get; set; }
         public string HRRequest { get; set; }
         public string HealthCheck { get; set; }
+    }
+}
 

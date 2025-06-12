@@ -1,4 +1,4 @@
-using DatabaseTask.Data;
+using DatabaseTask;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
